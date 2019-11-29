@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    自定义显示表单可编辑项-->
+    <declare-styleable name="FormEditableView">
+        <attr name="fev_left_text" format="string|reference" />
+        <attr name="fev_left_text_size" format="dimension" />
+        <attr name="fev_left_icon" format="reference" />
+        <attr name="fev_right_text" format="string|reference" />
+        <attr name="fev_right_text_hint" format="string|reference" />
+        <attr name="fev_right_text_size" format="dimension" />
+        <attr name="fev_bottom_line_size" format="dimension" />
+        <attr name="fev_bottom_line_color" format="color" />
+        <attr name="fev_bottom_line_visibility" format="boolean" />
+    </declare-styleable>
+
+</resources>
